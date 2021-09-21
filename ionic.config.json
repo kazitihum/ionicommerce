@@ -1,0 +1,8 @@
+{
+  "name": "ionicommerce",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "76ae96c5"
+}
